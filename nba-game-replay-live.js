@@ -8,6 +8,7 @@
 // @match        https://nba.stats.qq.com/schedule/
 // @match        https://kbs.sports.qq.com*
 // @require      https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js
+// @updateURL    https://raw.githubusercontent.com/rejerry/nba-game-replay-live/main/nba-game-replay-live.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_log
